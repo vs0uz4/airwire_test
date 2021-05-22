@@ -60,10 +60,7 @@
     "repositories": [
         {
             "type": "github",
-            "url": "https://github.com/archtechx/airwire",
-            "options": {
-                "symlink": false
-            }
+            "url": "https://github.com/archtechx/airwire"
         }
     ],
     "minimum-stability": "dev",
